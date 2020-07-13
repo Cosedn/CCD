@@ -59,7 +59,7 @@ The transposed dataset is derived from the original dataset, by implementing the
 
 We have provided an original dataset "movielens1m.dat" and its transposed dataset "movielens1m_trans.dat" for example.
 
-### 2.2 Complie
+### 2.2 Compile
 
 Severel marcos are required to specify when compiling our program. Here are the lists of these marcos:
 
